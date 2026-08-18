@@ -33,7 +33,7 @@
 		"innerColor": [255, 136, 255],
 		"favoredReligion": "Solar Mass",
 		"uniqueName": "Ingenuity And New Colony",
-		"uniques": ["Free [Great Scientist] appears <upon discovering [Nanotechnology] technology>","[Great Scientist] is earned [50]% faster"],"Gain control over [2] tiles [non-Puppeted] <upon founding a city>","[2] free [Colonizer] units appear <starting from the [Colonization era]>"]
+		"uniques": ["Free [Great Scientist] appears <upon discovering [Nanotechnology] technology>","[Great Scientist] is earned [50]% faster","Gain control over [2] tiles [non-Puppeted] <upon founding a city>","[2] free [Colonizer] units appear <starting from the [Colonization era]>"]
 		"cities": [
 			"Capital",
 			"City1",
