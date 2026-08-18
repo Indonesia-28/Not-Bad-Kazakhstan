@@ -29,8 +29,8 @@
 		"neutralRejectingDemand": ".",
 		"hateRejectingDemand": ".",
 
-		"outerColor": [85, 85, 85],
-		"innerColor": [126, 192, 253],
+		"outerColor": [180, 198, 255],
+		"innerColor": [255, 136, 255],
 		"favoredReligion": "ReligionName",
 		"uniqueName": "UniqueName",
 		"uniques": ["Uniques Go Here"],
