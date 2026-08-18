@@ -35,7 +35,8 @@
 		"uniqueName": "Ingenuity And New Colony",
 		"uniques": [
 			"Free [Great Scientist] appears <upon discovering [Nanotechnology] technology>",
-			"[Great Scientist] is earned [50]% faster","Gain control over [2] tiles [non-Puppeted] <upon founding a city>",
+			"[Great Scientist] is earned [50]% faster",
+			"Gain control over [2] tiles [non-Puppeted] <upon founding a city>",
 			"[2] free [Colonizer] units appear <starting from the [Colonization era]>",
 			"[Land] units gain the [Cold heart] promotion",
 			"[Infantry] units gain the [Drill I] promotion"]
