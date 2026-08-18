@@ -31,7 +31,7 @@
 
 		"outerColor": [180, 198, 255],
 		"innerColor": [255, 136, 255],
-		"favoredReligion": "ReligionName",
+		"favoredReligion": "Solar Mass",
 		"uniqueName": "UniqueName",
 		"uniques": ["Uniques Go Here"],
 		"cities": [
