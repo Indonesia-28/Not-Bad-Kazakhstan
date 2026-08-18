@@ -1,7 +1,7 @@
 [
   	{
 		"name": "BPM-2",
-    "uniqueTo": "Kazakhstan SPN",
+        "uniqueTo": "Kazakhstan SPN",
 		"replaces": "Antigrav Tank",
 		"unitType": "Hover",
 		"movement": 3,
