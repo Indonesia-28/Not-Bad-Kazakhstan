@@ -4,3 +4,17 @@ size: 1024, 256
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+UnitPromotionIcons/Altitude Training
+  rotate: false
+  xy: 948, 191
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
+UnitPromotionIcons/Cold heart
+  rotate: false
+  xy: 948, 133
+  size: 50, 50
+  orig: 50, 50
+  offset: 0, 0
+  index: -1
