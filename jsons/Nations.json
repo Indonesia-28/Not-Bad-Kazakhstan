@@ -10,24 +10,24 @@
 		"startIntroPart1": "Do, What's this Build Base?????",
 		"startIntroPart2": "So, A Do Build More colony? Can you build a colony that stands the test of time?",
 
-		"declaringWar": ".",
-		"attacked": ".",
-		"defeated": ".",
+		"declaringWar": "Nah, No, Fuck You!!!!!??",
+		"attacked": ".....",
+		"defeated": "Too, No More :V",
 		"introduction": ".",
 
-		"neutralHello": ".",
-		"hateHello": ".",
+		"neutralHello": "Hello",
+		"hateHello": "Do????",
 
-		"denounced": ".",
-		"declaringFriendship": ".",
-		"tradeRequest": ".",
+		"denounced": "EEE",
+		"declaringFriendship": "Ok, You Not????",
+		"tradeRequest": "Who is trade, No???",
 
-		"neutralDenouncing": ".",
-		"hateDenouncing": ".",
+		"neutralDenouncing": "....",
+		"hateDenouncing": "Do?????",
 		
-		"acceptingDemand": ".",
-		"neutralRejectingDemand": ".",
-		"hateRejectingDemand": ".",
+		"acceptingDemand": "Ok",
+		"neutralRejectingDemand": "Oh Ok :V",
+		"hateRejectingDemand": "Do????",
 
 		"outerColor": [180, 198, 255],
 		"innerColor": [255, 136, 255],
@@ -41,51 +41,46 @@
 			"[Land] units gain the [Cold heart] promotion",
 			"[Infantry] units gain the [Drill I] promotion"]
 		"cities": [
-			"Capital",
-			"City1",
-			"City2",
-			"City3",
-			"City4",
-			"City5",
-			"City6",
-			"City7",
-			"City8",
-			"City9",
-			"City10",
-			"City11",
-			"City12",
-			"City13",
-			"City14",
-			"City15",
-			"City16",
-			"City17",
-			"City18",
-			"AndSoOn"
+			"New Astana Colony",
+			"Neo Karaganda",
+			"New Aktau Colony",
+			"Neo Oral",
+			"Altera Kyzylorda",
+			"New Atyrau Colony",
+			"Altera Turkistan",
+			"New Kostanay Colony",
+			"I-1",
+			"I-2",
+			"I-3",
+			"I-4",
+			"I-5",
+			"I-6",
+			"I-7",
+			"I-8",
+			"I-9",
+			"I-10",
+			"I-11",
+			"I-12",
+			"I-13",
+			"I-14",
+			"I-15",
+			"I-16",
+			"I-17",
+			"I-18",
+			"I-19",
+			"I-20"
 		],
 		"spyNames": [
-			"Spy1",
-			"Spy2",
-			"Spy3",
-			"Spy4",
-			"Spy5",
-			"Spy6",
-			"Spy7",
-			"Spy8",
-			"Spy9",
-			"Spy10"
-		],
-		"civilopediaText": [
-			{
-				"text": "Title 1",
-				"header": 2,
-				"centered": true
-			},
-			{
-				"text": "Civilopedia Entry 1"
-			},
-			{
-				"separator": true
-			}
+			"AN172",
+			"AN921",
+			"AN712",
+			"AN9271",
+			"AN71717",
+			"AN7262",
+			"AN9183",
+			"AN2622",
+			"AN812",
+			"AN52"
 		]
   }
 ]
