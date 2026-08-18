@@ -1,0 +1,33 @@
+[
+  	{
+		"name": "BPM-2",
+    "uniqueTo": "Kazakhstan SPN",
+		"replaces": "Antigrav Tank",
+		"unitType": "Hover",
+		"movement": 3,
+		"strength": 60,
+		"cost": 300,
+		"requiredTech": "Fusion Power",
+		//"obsoleteTech": "Stasis Fields",
+		"uniques": [
+			"Armored",
+			"Hovercraft",
+			"Can move after attacking",
+			"No defensive terrain bonus",
+			"Withdraws before melee combat <with [20]% chance>",
+			"Can only be built <in cities with a [Mechanized Unit Facility]>",
+			"Consumes [1] [Ulframite]",
+			"Can only be built <with [Ulframite]>",
+			"Never appears as a Barbarian unit"
+		],
+		"promotions": ["Ignore terrain cost", "Amphibious"],
+		"hurryCostModifier": 20,
+		"attackSound": "tankshot",
+		"civilopediaText": [
+			{
+				"Separator": true
+			},
+			{ "text": "Utilizing anti-gravitic properties of Ulframite crystals, these nimble tanks can even sometimes dodge shots from certain angles." }
+		]
+    }
+]
