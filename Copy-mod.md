@@ -1,0 +1,1 @@
+* [Aliens have crashed on Earth](https://github.com/SomeTroglodyte/Aliens-have-crashed-on-Earth) by SomeTroglodyte [(only UnitPromotions.json)](https://github.com/SomeTroglodyte/Aliens-have-crashed-on-Earth/blob/master/jsons/UnitPromotions.json)
