@@ -7,8 +7,8 @@
 		"personality": "",
 		"preferredVictoryType":"Diplomatic",
 
-		"startIntroPart1": ".",
-		"startIntroPart2": ". Can you build a colony that stands the test of time?",
+		"startIntroPart1": "Do, What's this Build Base?????",
+		"startIntroPart2": "So, A Do Build More colony? Can you build a colony that stands the test of time?",
 
 		"declaringWar": ".",
 		"attacked": ".",
@@ -32,8 +32,8 @@
 		"outerColor": [180, 198, 255],
 		"innerColor": [255, 136, 255],
 		"favoredReligion": "Solar Mass",
-		"uniqueName": "UniqueName",
-		"uniques": ["Uniques Go Here"],
+		"uniqueName": "Ingenuity And New Colony",
+		"uniques": ["Free [Great Scientist] appears <upon discovering [Nanotechnology] technology>", "[Great Scientist] is earned [50]% faster"],
 		"cities": [
 			"Capital",
 			"City1",
