@@ -20,7 +20,7 @@
 			"Can only be built <with [Ulframite]>",
 			"Never appears as a Barbarian unit"
 		],
-		"promotions": ["Ignore terrain cost", "Amphibious"],
+		"promotions": ["Ignore terrain cost", "Amphibious", "Altitude Training"],
 		"hurryCostModifier": 20,
 		"attackSound": "tankshot",
 		"civilopediaText": [
