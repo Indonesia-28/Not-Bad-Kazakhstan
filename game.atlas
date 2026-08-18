@@ -12,6 +12,19 @@ NationIcons/Kazakhstan SPN
   offset: 0, 0
   index: -1
 
+Tak berjudul4931.png
+size: 2048, 2048
+format: RGBA8888
+filter: MipMapLinearLinear, Linear
+repeat: none
+UnitIcons/BPM-2
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+
 game.png
 size: 1024, 256
 format: RGBA8888
